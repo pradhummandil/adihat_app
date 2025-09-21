@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "230712784834",
+    "project_id": "adihat-mental-wellness-app",
+    "storage_bucket": "adihat-mental-wellness-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230712784834:android:0cfecfd844433de5ad485b",
+        "android_client_info": {
+          "package_name": "com.adihat.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230712784834-8tsevmevatujegekhb53kfo32b9c39a0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adihat.user",
+            "certificate_hash": "873e3a484bd81304412986daed55ccd7a8289cf3"
+          }
+        },
+        {
+          "client_id": "230712784834-j2ieovnmcfut8sn26j1djpn02uvi5val.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5tmiPItp65MqfY-4a2h7ZbhlkXqnsW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230712784834-j2ieovnmcfut8sn26j1djpn02uvi5val.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230712784834:android:c4e86140da1c6a6cad485b",
+        "android_client_info": {
+          "package_name": "com.adihat_doctor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230712784834-s14efda19lt5al5e9d9csdb9mlbaa0ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adihat_doctor_app",
+            "certificate_hash": "873e3a484bd81304412986daed55ccd7a8289cf3"
+          }
+        },
+        {
+          "client_id": "230712784834-j2ieovnmcfut8sn26j1djpn02uvi5val.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_5tmiPItp65MqfY-4a2h7ZbhlkXqnsW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230712784834-j2ieovnmcfut8sn26j1djpn02uvi5val.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
